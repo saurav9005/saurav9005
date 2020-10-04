@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=saurav9005&color=green)
 
 - 🔭 I’m currently working on :snail: JavaScript ES6 - Functional Programming with React and Redux
 - 🌱 I’m currently learning :last_quarter_moon_with_face: Hard Parts of Javascript Closure
