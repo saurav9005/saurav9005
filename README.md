@@ -8,6 +8,5 @@
 - 🤔 I’m looking for help with NgRx
 - 💬 Ask me about Typography, Design System, Usability and SEO
 - 📫 How to reach me: Email me @ saurav9005@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: :nerd_face:
 
