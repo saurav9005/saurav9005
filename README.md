@@ -9,5 +9,6 @@
 - 💬 Ask me about Typography, Design System, Usability and SEO
 - 📫 How to reach me: Email me @ saurav9005@gmail.com
 - ⚡ Fun fact: :nerd_face:
+- Codepen - https://codepen.io/saurav9005
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saurav9005&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
