@@ -10,4 +10,4 @@
 - 📫 How to reach me: Email me @ saurav9005@gmail.com
 - ⚡ Fun fact: :nerd_face:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saurav9005)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saurav9005&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
